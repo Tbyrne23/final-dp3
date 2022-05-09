@@ -7,6 +7,7 @@ import { BrowserRouter as Router, Routes, Route}
 import Home from './pages';
 import Song from './pages/about';
 import Sponsors from './pages/sponsor';
+import SongDark from './pages/songsDark';
   
 function App() {
 return (
@@ -15,6 +16,7 @@ return (
     <Routes>
         <Route exact path='/' exact element={<Home />} />
         <Route path='/songs' element={<Song/>} />
+         <Route path='/songsDark' element={<SongDark/>} />
         <Route path='/sponsor' element={<Sponsors/>} />
         
     </Routes>
