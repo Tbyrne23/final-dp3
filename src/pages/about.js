@@ -7,9 +7,9 @@ import ggXRD from "./pics/ggXRD.jpg";
 
 
 const Song = () => {
-  let audio = new Audio("/4-01 HEAVY DAY.mp3")
-  let audio2 = new Audio("/4-01 HEAVY DAY.mp3")
-  let audio3 = new Audio("/4-01 HEAVY DAY.mp3")
+  let audio = new Audio("./public/4-01 HEAVY DAY.mp3")
+  let audio2 = new Audio("./public/4-01 HEAVY DAY.mp3")
+  let audio3 = new Audio("./public/4-01 HEAVY DAY.mp3")
   const start = () => {
     audio.play()
   }
