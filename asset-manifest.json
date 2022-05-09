@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/final-dp/static/css/main.613aa977.css",
-    "main.js": "/final-dp/static/js/main.31853651.js",
+    "main.js": "/final-dp/static/js/main.e632298d.js",
+    "static/media/4-01 HEAVY DAY.mp3": "/final-dp/static/media/4-01 HEAVY DAY.d4c3bb0da50c7f5d537c.mp3",
     "static/media/ggXRD.jpg": "/final-dp/static/media/ggXRD.abba95ec516f44e80159.jpg",
     "index.html": "/final-dp/index.html",
     "main.613aa977.css.map": "/final-dp/static/css/main.613aa977.css.map",
-    "main.31853651.js.map": "/final-dp/static/js/main.31853651.js.map"
+    "main.e632298d.js.map": "/final-dp/static/js/main.e632298d.js.map"
   },
   "entrypoints": [
     "static/css/main.613aa977.css",
-    "static/js/main.31853651.js"
+    "static/js/main.e632298d.js"
   ]
 }
