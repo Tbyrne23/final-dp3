@@ -7,7 +7,7 @@ import ggXRD from "./pics/ggXRD.jpg";
 import HEAVYDAY from "../4-01 HEAVY DAY.mp3";
 
 
-const Song = () => {
+const SongDark = () => {
   let audio = new Audio(HEAVYDAY)
   //let audio2 = new Audio(HEAVYDAY)
   let audio3 = new Audio(HEAVYDAY)
@@ -50,4 +50,4 @@ const Song = () => {
   );
 };
   
-export default Song;
+export default SongDark;
