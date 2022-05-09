@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Routes, Route}
 import Home from './pages';
 import Song from './pages/about';
 import Sponsors from './pages/sponsor';
-import SongDark from './pages/songsDark';
+import SongDark from './pages/songs';
   
 function App() {
 return (
