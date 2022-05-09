@@ -13,9 +13,7 @@ const Navbar = () => {
           <NavLink to="/sponsor" activeStyle>
             Sponsors
           </NavLink>
-          <NavLink to="/songsDark" activeStyle>
-            SongsDark
-          </NavLink>
+          
         </NavMenu>
       </Nav>
     </>
